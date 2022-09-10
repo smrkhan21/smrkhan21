@@ -11,17 +11,20 @@
 
 - 🤝 I’m looking for help with **Youtube & Udemy**
 
+- 👨‍💻 All of my projects are available at [https://github.com/smrkhan21?tab=repositories](https://github.com/smrkhan21?tab=repositories)
+
 - 💬 Ask me about **react, javascript, magento 2**
 
-- 📫 How to reach me **@linkedIn: https://www.linkedin.com/in/sameerkhan21/**
+- 📫 How to reach me **@linkedIn: https://www.linkedin.com/in/sameer-khan-9476a6135/**
 
 - ⚡ Fun fact **Try to maintain Github Daily**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/smrkhan98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smrkhan98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sameerkhan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-khan-9476a6135" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/smrkhan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smrkhan21" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sameerpathan1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sameerpathan1997" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sameerpathan1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameerpathan1997" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
