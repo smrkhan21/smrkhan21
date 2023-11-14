@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently building projects on **React Js, Tailwind Css**
 
 - 👯 I’m looking to collaborate on **Github**
 
