@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Khan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/smrkhan98" target="blank"><img src="https://img.shields.io/twitter/follow/smrkhan98?logo=twitter&style=for-the-badge" alt="smrkhan98" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sameer_sde" target="blank"><img src="https://img.shields.io/twitter/follow/smrkhan98?logo=twitter&style=for-the-badge" alt="smrkhan98" /></a> </p>
 
 - 🔭 I’m currently working as a **Software Developer**
 
