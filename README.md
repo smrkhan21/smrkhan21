@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **@linkedIn: https://www.linkedin.com/in/sameer-khan-9476a6135/**
 
-- ⚡ Fun fact **The paradox is real— the more you learn JavaScript, the less confident you feel.y**
+- ⚡ Fun fact :- **The paradox is real— the more you learn JavaScript, the less confident you feel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
