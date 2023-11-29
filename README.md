@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact :- **The paradox is real— the more you learn JavaScript, the less confident you feel.**
 
+- 🥈 Target :- **100 Days Coding Challenge** <i>(Starting from Data Structures & Algorithms, JS Important Questions, Small Projects)</i>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/smrkhan98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smrkhan98" height="30" width="40" /></a>
