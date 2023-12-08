@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 🤝 I’m looking for help with **Youtube & Udemy**
-
 - 👨‍💻 All of my projects are available at [https://github.com/smrkhan21?tab=repositories](https://github.com/smrkhan21?tab=repositories)
 
 - 💬 Ask me about **react, javascript, magento 2**
